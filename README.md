@@ -8,6 +8,6 @@ proyecto de planeación de software en GitHub
 5. crear un proyecto.
 6. crear una tarea de kanban
 ----------
-8. forking
-9. invitados
-10. issues
+7. forking
+8. invitados
+9. issues
