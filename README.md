@@ -7,7 +7,6 @@ proyecto de planeación de software en GitHub
 4. github page.
 5. crear un proyecto.
 6. crear una tarea de kanban
------------
 7.forking.
 8.invitados.
 9.issues
