@@ -10,4 +10,4 @@ proyecto de planeación de software en GitHub
 -----------
 7.forking.
 8.invitados.
-9.issues.
+9.issues
